@@ -1,6 +1,6 @@
 /*
  * Default main.c for rtos lab.
- * @author Andrew Morton, 2018
+ * @Instructor Andrew Morton, 2018
  */
 #include <LPC17xx.h>
 #include <stdbool.h>
